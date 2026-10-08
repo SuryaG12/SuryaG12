@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @SuryaG12
-- 👀 I’m interested in Artificial Intelligence and Computer Science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Gmail
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Surya 👋
 
-<!---
-SuryaG12/SuryaG12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bellevue College student studying Computer Science — applying to CSSE and
+Computer Engineering programs.
+
+- 🔭 Currently building: [**GradeMyResume**](https://github.com/SuryaG12/resume-analyzer) — a resume↔job matching engine with ATS simulation (Python, FastAPI)
+- 🌱 Learning: Machine Learning, backend development
+- 👀 Interested in: Artificial Intelligence, software engineering
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/surya-geethan-530a0a329)
+
+⚡ Fun fact: I once built a full-stack app's docs before writing a single line of code — then built the whole thing to make the docs true.
